@@ -1,6 +1,8 @@
 <♫/> Rythm.js - v2.2.4
 ======================
 
+I will try to test this JS library.
+
 [![Build Status](https://travis-ci.org/Okazari/Rythm.js.svg?branch=master)](https://travis-ci.org/Okazari/Rythm.js)
 
 Demo at: [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
