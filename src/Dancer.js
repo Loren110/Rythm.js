@@ -1,11 +1,3 @@
-import pulse, { reset as pulseReset } from './dances/pulse.js'
-import shake, { reset as shakeReset } from './dances/shake.js'
-import jump, { reset as jumpReset } from './dances/jump.js'
-import twist, { reset as twistReset } from './dances/twist.js'
-import vanish, { reset as vanishReset } from './dances/vanish.js'
-import borderColor, {
-  reset as borderColorReset,
-} from './dances/border-color.js'
 import color, { reset as colorReset } from './dances/color.js'
 import radius, { reset as radiusReset } from './dances/radius.js'
 import blur, { reset as blurReset } from './dances/blur.js'
@@ -16,6 +8,14 @@ import fontSize, { reset as fontSizeReset } from './dances/font-size.js'
 import borderWidth, {
   reset as borderWidthReset,
 } from './dances/border-width.js'
+import pulse, { reset as pulseReset } from './dances/pulse.js'
+import shake, { reset as shakeReset } from './dances/shake.js'
+import jump, { reset as jumpReset } from './dances/jump.js'
+import twist, { reset as twistReset } from './dances/twist.js'
+import vanish, { reset as vanishReset } from './dances/vanish.js'
+import borderColor, {
+  reset as borderColorReset,
+} from './dances/border-color.js'
 
 class Dancer {
   constructor() {
