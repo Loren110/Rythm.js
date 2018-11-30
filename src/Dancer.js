@@ -1,8 +1,3 @@
-import pulse, { reset as pulseReset } from './dances/pulse.js'
-import shake, { reset as shakeReset } from './dances/shake.js'
-import jump, { reset as jumpReset } from './dances/jump.js'
-import twist, { reset as twistReset } from './dances/twist.js'
-import vanish, { reset as vanishReset } from './dances/vanish.js'
 import borderColor, {
   reset as borderColorReset,
 } from './dances/border-color.js'
